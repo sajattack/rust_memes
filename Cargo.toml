@@ -1,10 +1,11 @@
 [package]
 name = "memes"
 description = "Funny examples of rust syntax"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Paul Sajna <sajattack@gmail.com>"]
 edition = "2018"
 license = "MIT"
+repository = "https://github.com/sajattack/rust_memes"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
