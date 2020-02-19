@@ -24,7 +24,7 @@ fn all_star(i_aint_the_sharpest_tool_in_the_shed: Option<i32>) {
                 || fed_to_the_rules && hit_the_ground_running
             {
                 let didnt_make_sense = !live_for_fun;
-                if (all_that_glitters == gold) {
+                if all_that_glitters == gold {
                     break 'the_mold;
                 }
             }
