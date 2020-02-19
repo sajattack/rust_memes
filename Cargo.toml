@@ -1,5 +1,6 @@
 [package]
-name = "rust_memes"
+name = "memes"
+description = "Funny examples of rust syntax"
 version = "0.1.0"
 authors = ["Paul Sajna <sajattack@gmail.com>"]
 edition = "2018"
