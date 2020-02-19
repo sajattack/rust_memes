@@ -31,3 +31,7 @@ fn all_star(i_aint_the_sharpest_tool_in_the_shed: Option<i32>) {
         }
     }
 }
+
+fn gonna_give_you_up() -> ! {
+    loop { continue; }
+}
